@@ -1,4 +1,4 @@
-# ensg2hugo
+# Name: ensg2hugo
 
 A basic python script for TRGN 510 [Basic Foundations in Translational Biomedical Informatics](https://www.bioinform.io/site/) that converts gene id to gene name.
 
@@ -44,7 +44,7 @@ will turn this file from
 ```
 into:
 ```
-"","gene_id","gene_name","gene_type","logFC","AveExpr","t","P.Value","adj.P.Val"
+"",""gene_name","gene_type","logFC","AveExpr"
 "14541","ANP32C","processed_pseudogene",0.449817926522256,0.0739725408539951
 "14546","RNU6-668P","snRNA",0.380944080200912,0.169836608364135,2.92569531023051
 ```
@@ -53,7 +53,7 @@ into:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
